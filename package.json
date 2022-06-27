@@ -38,9 +38,9 @@
 	},
 	"homepage": "https://soundcloud-scraper.js.org",
 	"dependencies": {
-		"cheerio": "^1.0.0-rc.10",
+		"cheerio": "^1.0.0-rc.12",
 		"m3u8stream": "^0.8.4",
-		"node-fetch": "^2.6.1"
+		"node-fetch": "2.6.1"
 	},
 	"devDependencies": {
 		"@discordjs/docgen": "github:discordjs/docgen"
